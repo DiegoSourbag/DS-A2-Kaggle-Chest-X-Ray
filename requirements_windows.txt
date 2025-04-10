@@ -9,3 +9,4 @@ tensorflow==2.10
 keras==2.10
 kagglehub
 ipykernel
+scikit-optimize

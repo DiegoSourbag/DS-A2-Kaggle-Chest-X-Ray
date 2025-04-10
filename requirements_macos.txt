@@ -8,3 +8,4 @@ opencv-python==4.5.4.60
 tensorflow-macos==2.10
 keras==2.10
 kagglehub==0.1.0
+scikit-optimize
