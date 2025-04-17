@@ -29,3 +29,4 @@ venv\Scripts\activate
 # Step 3: Install required packages
 pip install -r requirements_windows.txt
 
+You can now use the jupyter notebook
